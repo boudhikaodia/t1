@@ -1,0 +1,111 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "yakyzGYbk8Rjxkpt3D6RKg=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/content/theme.ts",
+      "hash": "4E1iV5vOIe3HV3Vunq01xA=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "B1b+Dvnh/yuEGqR/5svSow=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "fiqfr9E3+Y0rKZfN0+K5bw=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "LrjagkcjsIKgzNXuTkv0gg=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "8wvJCxgQyW40NuXyEujhCw=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "LFGHZBuHHQHZObiNHcjNMA=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "nnXPSgtHhxsNHjrzn0aizw=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "kUc7M1Yh9YLRu4xzpddgMQ=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "ApJuVBBluydqO751FEpRag=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "0Y6W7REmnpeOCte2MgE2Xg=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "oIwa6ImBTuklrF0T2sh6jA=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "CxuBUzwPi3LVo7Be7ET05Q=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "KgwghKR6K5XIGVMCQNp9CQ=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "xkibMRI3IOJAYP1BNcPKNw=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCToggle",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/components/toggle/index.tsx",
+      "hash": "MY9GazKPZ1Api/0n1PUbQw=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "nVxBwzV6ei6bxaC5Ddch7A=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "mIrvqB4dhrYCBpJHMum92w=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "wpnCM9qjiXK4NmpM6tY3Ow=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "hX5gwen4+eiJ7KYwne/Bog=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "qXdcJao6KKd+nLK7UuqIRw=="
+  }
+}
