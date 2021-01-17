@@ -78,6 +78,11 @@
   ],
   "components": [
     {
+      "name": "ToCPrevNext",
+      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "wpnCM9qjiXK4NmpM6tY3Ow=="
+    },
+    {
       "name": "ToCToggle",
       "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/components/toggle/index.tsx",
       "hash": "MY9GazKPZ1Api/0n1PUbQw=="
@@ -91,11 +96,6 @@
       "name": "ConfigTransport",
       "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
       "hash": "mIrvqB4dhrYCBpJHMum92w=="
-    },
-    {
-      "name": "ToCPrevNext",
-      "filename": "/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "wpnCM9qjiXK4NmpM6tY3Ow=="
     },
     {
       "name": "CollapseControl",

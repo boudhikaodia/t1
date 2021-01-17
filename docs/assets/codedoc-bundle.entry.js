@@ -14,17 +14,17 @@ import { tocHighlight } from '/Users/siboon/Documents/DecimalSystem/10-19/14-bou
 import { postNavSearch } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
+import { ToCPrevNext } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { ToCToggle } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/components/toggle/index.tsx';
 import { DarkModeSwitch } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { ToCPrevNext } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { CollapseControl } from '/Users/siboon/Documents/DecimalSystem/10-19/14-boudhikaodia/cocod-test/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 
 const components = {
+  'wpnCM9qjiXK4NmpM6tY3Ow==': ToCPrevNext,
   'MY9GazKPZ1Api/0n1PUbQw==': ToCToggle,
   'nVxBwzV6ei6bxaC5Ddch7A==': DarkModeSwitch,
   'mIrvqB4dhrYCBpJHMum92w==': ConfigTransport,
-  'wpnCM9qjiXK4NmpM6tY3Ow==': ToCPrevNext,
   'hX5gwen4+eiJ7KYwne/Bog==': CollapseControl
 };
 
