@@ -59,7 +59,7 @@ export function content(  this: ThemedComponentThis,_content: HTMLElement, toc: 
             </ToC>
           }>
 
-            <div style="  text-align: justify; text-justify: inter-word;">
+            <div style="">
               
             <OdiaFont> {_content}</OdiaFont>
             </div>
